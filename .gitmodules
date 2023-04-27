@@ -5,3 +5,7 @@
 [submodule "client/cors-anywhere"]
 	path = client/cors-anywhere
 	url = https://github.com/Rob--W/cors-anywhere.git
+
+[submodule "cors-anywhere"]
+	path = cors-anywhere
+	url = https://github.com/Rob--W/cors-anywhere.git
